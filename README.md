@@ -3,9 +3,9 @@
 
 ## Overview
 
-Provides set of libraries to easily setup code quality checks based on [GrumPHP](https://github.com/phpro/grumphp) for Drupal module/theme/profile. Check out this [article](https://www.lullabot.com/articles/how-enforce-drupal-coding-standards-git) from [Lullabot](https://www.lullabot.com) for more details.
+Provides set of libraries to easily setup code quality checks based on [GrumPHP](https://github.com/phpro/grumphp) for Drupal module/theme/profile. Check out this [Lullabot article](https://www.lullabot.com/articles/how-enforce-drupal-coding-standards-git) for more details.
 
->*Note:* This library is aimed to help contributed/custom Drupal module/theme/profile hosted in individual git repository.
+>*Note:* This library aim to help contributed/custom Drupal module/theme/profile hosted in individual git repository.
 
 
 ## Install
@@ -20,23 +20,22 @@ That's it. Now, all tasks (listed below) run on every `git commit`.
 ## Features
 
 1. [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer) with Drupal standard.
-2. [PHPLint](http://www.icosaedro.it/phplint/)
-3. [YAML Lint](http://www.yamllint.com/)
-4. [Composer](https://github.com/composer/composer)
-5. [Composer Normalize](https://github.com/localheinz/composer-normalize)
-6. [JSONLint](https://jsonlint.com/)
-7. [PHP Copy/Paste Detector (CPD)](https://github.com/sebastianbergmann/phpcpd)
+1. [PHP Lint](http://www.icosaedro.it/phplint/)
+1. [YAML Lint](http://www.yamllint.com/)
+1. [Composer](https://github.com/composer/composer)
+1. [Composer Normalize](https://github.com/ergebnis/composer-normalize)
+1. [JSONLint](https://jsonlint.com/)
+1. [PHP Copy/Paste Detector (CPD)](https://github.com/sebastianbergmann/phpcpd)
 
 Long list of additional checks/validators available [here](https://github.com/phpro/grumphp/blob/master/doc/tasks.md#tasks-1).
 
 ## Sample
 
 ### Pass
-![drupal-quality-checker-pass](https://user-images.githubusercontent.com/1220029/33808392-62b90710-dddd-11e7-9d0e-08f82e6e85b1.png)
+![drupal-quality-checker-pass](./docs/images/drupal-quality-checker-pass.png)
 
 ### Fail
-![drupal-quality-checker-fail](https://user-images.githubusercontent.com/1220029/33808391-62a4daec-dddd-11e7-8cf5-9c6b37f89893.png)
-
+![drupal-quality-checker-fail](./docs/images/drupal-quality-checker-fail.png)
 
 ## Demo
 Implemented in [Modal Configuration](https://github.com/vijaycs85/modal_config) module.

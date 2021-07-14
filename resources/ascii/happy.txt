@@ -1,30 +1,26 @@
-                         :o+.
-                         +ooo/.
-                        -oooooo+.
-                       -+oooooooo+-`
-                     ./oooooooo+//::.
-                 `.:+oooooo+:.`
-             `.:/+ooooooo+-`
-          `-/++ooooooooo/`    `.:////:-`
-        .:+oooooooooooo/     -+oooooooo+:`
-      ./+ooooooooooooo+`    /oooooooooooo/`    .`
-     :+ooooooooooooooo/    `oooooooooooooo-    -/.
-   `/ooooooooooooooooo+    `oooooooooooooo-    :o+:`
-   /ooooooooooooooooooo`    :oooooooooooo/     +ooo+`
-  -oooooooooooooooooooo/     -/+ooooooo+:`    :ooooo+`
-  +ooooooooooooooooo++//-      .-://:-.`    `:ooooooo+`
- .ooooooooooooooo+/-.`                    `-+ooooooooo:
- -ooooooooooooo/-`                     `-:+ooooooooooo+
- -ooooooooooo+-         `````         `:ooooooooooooooo`
- .oooooooooo/`       .:/+++++//-`       -+ooooooooooooo`
- `+oooooooo/`      -+ooooooooooo+/`      -oooooooooooo+
-  :oooooooo`      /ooooooooooooooo+.      :ooooooooooo-
-   +oooooo/      :ooooooooooooooooo+`     `oooooooooo/
-   `+ooooo:      +oooooooooooooooooo-      ooooooooo/`
-    `+oooo:      /oooooooooooooooooo.      oooooooo/`
-     `/ooo+      .ooooooooooooooooo/      .ooooooo:
-       .+oo-      .+oooooooooooooo/`      +ooooo/`
-         -++.      `:+oooooooooo/.       /oooo/.
-           .:.        `-::::::.`       `/oo+:`
-              `                      `-+/:.
-                                    ...`
+                   -:
+                  -oo:
+                `/oooo/`
+               -+ooooooo:
+             -+oooooooooo+-
+           -+oooooooooooooo+-
+         -+ooooooo/.`/ooooooo+-
+       ./ooooooo+.    ./ooooooo+-
+     `/ooooooooo        ./ooooooo/.
+    -ooooooooooo:`        ./ooooooo:
+   /ooooooo/ooooo+-`        -+oooooo/`
+  /oooooo/` `:ooooo+-`       `/oooooo+`
+ :oooooo:     `/ooooo+-`       :oooooo/
+.oooooo:       `+oooooo+-`      :oooooo-
+/oooooo      `:oooooooooo+.      +ooooo+
++ooooo/     -+ooooo:./ooooo/.    :oooooo
++ooooo/   .+ooooo/.   .+ooooo/`  :oooooo
+/oooooo-`:ooooo/.       -oooooo-`+ooooo+
+.ooooooo+ooooo:          `+ooooo+oooooo-
+ /ooooooooooo+            .ooooooooooo+
+ `/oooooooooo+            `oooooooooo+`
+   /oooooooooo-          `+ooooooooo/`
+    -+ooooooooo/.      `-+ooooooooo-
+      -+oooooooooo+///+ooooooooo+:`
+        .:+oooooooooooooooooo+:.
+           `.:/++oooooo++/:-`
